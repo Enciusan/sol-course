@@ -4,7 +4,7 @@ import {
   keypairIdentity,
   NftWithToken,
   toMetaplexFile,
-  PublicKey, irysStorage, bundlrStorage,
+  PublicKey, bundlrStorage,
 } from "@metaplex-foundation/js";
 
 import "dotenv/config";
